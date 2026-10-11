@@ -67,4 +67,4 @@ Microsoft (Windows, Office, Visual Studio);
 
 Stack Overflow (бэкенд);
 
-Unity (игровой движок).
+Unity (игровой движок);
